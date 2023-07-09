@@ -1,1 +1,2 @@
 # solid
+* S= Single responsiblitly
