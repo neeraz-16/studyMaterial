@@ -1,0 +1,2 @@
+compiled VS interpreter language: both
+1. Java can be considered both a compiled and an interpreted language because its source code is first compiled into a binary byte-code. This byte-code runs on the Java Virtual Machine (JVM), which is usually a software-based interpreter.
