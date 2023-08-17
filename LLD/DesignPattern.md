@@ -6,7 +6,7 @@ Design Patterns: Elements of Reusable Object-Oriented Software
 
 ## categorization of design pattern
 * Creational design patter <br/>
-Singleton pattern, Factory patter,Builder patter
+Singleton pattern, Factory patter,Builder patter,Prototype Design Pattern
 
 * Structural design Patter <br />
 Proxy pattern,Adopter patter

@@ -7,7 +7,7 @@
     public void saveToDB(){}<br /> 
  }
  <br />
- this class have 3 reason to change the call which is not good every call have only one reason to change the class or one class should have only one responsibility
+ this class have 3 reason to change the class which is not good every class have only one reason to change the class or one class should have only one responsibility
 ## O=> Open/close principle 
  Open for extension close for modification<br />
 
