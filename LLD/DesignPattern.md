@@ -23,8 +23,8 @@ has a relationship =><br/>
 when multiple child of a class have same type of method by that same method is not used by other child on same level ex: in a vehicle class if its five child have a types of mechanism for breaking system and another have different type of mechanism
 ### Solution: implement it using interfaces
 * create a break interface
-* create classes for all types of break by implementing the interface
-* created a variable in main class with the interface name(loosely coupled) and it can be assigned by child classes 
+* create classes for all types of break by implementing the interface and implement the logic
+* created a variable in vehicle class(main class) with the interface name(loosely coupled) and initialize this object by child classes according the functionality 
 
 # Observer design Pattern
 ### Problem: 
