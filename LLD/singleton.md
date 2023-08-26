@@ -1,5 +1,5 @@
 # Problem
-create a object(single instance) and use it in all teh project
+create a object(single instance) and use it in all the project
 
 # solution:
 1. create the constructor as private
